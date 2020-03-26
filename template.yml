@@ -1,4 +1,4 @@
-language: node12
+language: astro-node12
 fprocess: node index.js
 welcome_message: |
   You have created a new function which uses Node.js 12 (TLS) and the OpenFaaS
