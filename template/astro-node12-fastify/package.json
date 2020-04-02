@@ -1,0 +1,17 @@
+{
+  "name": "openfaas-astro-node12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no tests specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "OpenFaaS Ltd",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "fastify": "^2.13.0",
+    "helmet": "^3.22.0"
+  }
+}
