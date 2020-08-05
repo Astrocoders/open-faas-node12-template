@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
-    "fastify": "^2.13.0",
+    "fastify": "^2.15.1",
     "helmet": "^3.22.0"
   }
 }
